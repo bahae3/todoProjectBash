@@ -40,7 +40,7 @@ The code is organized into functions, each responsible for a specific task:
 chmod +x todo.sh
 
 2. Run the script with desired actions:
-./task_manager.sh <action>
+./todo.sh <action>
 
 Replace `<action>` with one of the following:
 - `create`: Create a new task.
